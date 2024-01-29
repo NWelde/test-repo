@@ -11,7 +11,7 @@ try :
     z =str(input('Enter operator: '))
 except:
  print('do you not know what an operator is?, try again man.')    
-
+ z =str(input('Enter operator: '))
 if z == '+' :
  print(x+y)
 elif z == '-' :
